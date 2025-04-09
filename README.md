@@ -28,7 +28,7 @@ Copy a single sample entry from the JSON array.
 👉 Prompt 2
 ****Now, I want you to create an interactive sales performance dashboard with the five key visualizations using HTML and JavaScript. Use the latest version of Plotly.js CDN and include an upload feature so that we can upload the JSON file. It should generate the dashboard based on the uploaded data.
 Note: I need to upload the sales data from my local computer, and it should create the dashboard based on that data.****
-💻 ChatGPT will generate a fully working dashboard code. You can copy and run it directly in your browser or use prompt 3.
+💻 ChatGPT will generate a fully working dashboard code. You can copy and run it directly in your browser or use next prompt for more simplicty lmao. 
 
 👉 Prompt 3
 ****Provide this as an HTML downloadable file.****
